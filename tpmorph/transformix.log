@@ -1,0 +1,525 @@
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000010 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003226 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.01s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000011 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003127 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.02s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000010 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003270 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.01s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000010 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003190 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.01s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000006 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003176 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.01s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000007 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003294 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.02s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000013 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003520 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.01s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000008 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003634 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.01s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000007 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003362 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.01s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000006 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003198 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.01s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000006 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003612 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.01s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000006 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.004486 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.01s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000076 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003435 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.01s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000029 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003852 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.01s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000006 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003266 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.01s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000006 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003247 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.01s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000007 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003247 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.01s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000090 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003749 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.01s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000006 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003448 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.01s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000006 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003279 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.01s
+ELASTIX version: 4.900
+Command line options from ElastixBase:
+-out      ./
+-threads  unspecified, so all available threads are used
+-def      unspecified, so no input points transformed
+-jac      unspecified, so no det(dT/dx) computed
+-jacmat   unspecified, so no dT/dx computed
+
+Reading input image ...
+  Reading input image took 0.000007 s
+Calling all ReadFromFile()'s ...
+WARNING: The parameter "UseBinaryFormatForTransformationParameters", requested at entry number 0, does not exist at all.
+  The default value "false" is used instead.
+  Calling all ReadFromFile()'s took 0.003461 s
+Transforming points ...
+  The command-line option "-def" is not used, so no points are transformed
+  Transforming points done, it took 0.00s
+Compute determinant of spatial Jacobian ...
+  The command-line option "-jac" is not used, so no det(dT/dx) computed.
+  Computing determinant of spatial Jacobian done, it took 0.00s
+Compute spatial Jacobian (full matrix) ...
+  The command-line option "-jacmat" is not used, so no dT/dx computed.
+  Computing spatial Jacobian done, it took 0.00s
+Resampling image and writing to disk ...
+  Resampling took 0.01s
